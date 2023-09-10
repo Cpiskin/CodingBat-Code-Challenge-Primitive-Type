@@ -1,1 +1,0 @@
-# CodingBat-Code-Challenge-Primitive-Type
